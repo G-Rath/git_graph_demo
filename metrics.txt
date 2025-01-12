@@ -1,1 +1,2 @@
 metrics: prometheus
+interval=15s
