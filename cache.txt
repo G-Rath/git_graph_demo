@@ -1,0 +1,2 @@
+cache: write-through
+ttl=300
